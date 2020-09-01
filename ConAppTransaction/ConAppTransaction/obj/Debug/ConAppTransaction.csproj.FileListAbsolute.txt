@@ -1,0 +1,7 @@
+D:\test\ConAppTransaction\ConAppTransaction\bin\Debug\ConAppTransaction.exe.config
+D:\test\ConAppTransaction\ConAppTransaction\bin\Debug\ConAppTransaction.exe
+D:\test\ConAppTransaction\ConAppTransaction\bin\Debug\ConAppTransaction.pdb
+D:\test\ConAppTransaction\ConAppTransaction\obj\Debug\ConAppTransaction.csprojAssemblyReference.cache
+D:\test\ConAppTransaction\ConAppTransaction\obj\Debug\ConAppTransaction.csproj.CoreCompileInputs.cache
+D:\test\ConAppTransaction\ConAppTransaction\obj\Debug\ConAppTransaction.exe
+D:\test\ConAppTransaction\ConAppTransaction\obj\Debug\ConAppTransaction.pdb
